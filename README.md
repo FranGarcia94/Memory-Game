@@ -32,12 +32,12 @@ Here you can select the level of the game. As we will see later, the level will 
 ![easy_mode](./images/easy_mode.jpg)
 
 ## 2. Hard Mode ##
-**8x8 matrix - 32 pairs of numbers (0-15)**
+**8x8 matrix - 16 pairs of numbers (0-15)**
 
 ![hard_mode](./images/hard_mode.jpg)
 
 ## 3. Extreme Mode ##
-**12x12 matrix - 72 pairs of numbers (0-35)**
+**12x12 matrix - 36 pairs of numbers (0-35)**
 
 ![extreme_mode](./images/extreme_mode.jpg)
 
