@@ -2,7 +2,7 @@
 
 [![Python_version](https://img.shields.io/badge/Python-v3.10.2-blueviolet?style=flat&logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3102/)
 ![License](https://custom-icon-badges.herokuapp.com/github/license/FranGarcia94/Memory-Game?logo=law)
-![Size](https://badge-size.herokuapp.com/FranGarcia94/Memory-Game/main/memory_game.py)
+![size](https://img.badgesize.io/FranGarcia94/Memory-Game/main/memory_game.py.svg)
 
 <p align = "center">
 <a href="https://github.com/FranGarcia94/Memory-Game"><img src="./images/hard_ingame.jpg"/></a>
